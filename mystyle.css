@@ -1,6 +1,9 @@
+* {
+  font-family:monospace;
+}
+
 body {
   background-color: lightblue;
-  font-family:monospace;
 }
 
 h1 {
