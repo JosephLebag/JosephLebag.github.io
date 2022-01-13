@@ -1,6 +1,6 @@
 body {
   background-color: lightblue;
-  text-style:monospace;
+  font-family:monospace;
 }
 
 h1 {
@@ -8,5 +8,5 @@ h1 {
   margin-left: 20px;
 }
 ol {
-  text-align:center;
+  text-align: center;
 }
